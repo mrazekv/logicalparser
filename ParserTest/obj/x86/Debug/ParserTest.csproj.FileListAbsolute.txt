@@ -1,0 +1,7 @@
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\ParserTest\bin\Debug\ParserTest.exe
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\ParserTest\bin\Debug\ParserTest.pdb
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\ParserTest\bin\Debug\Parser.dll
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\ParserTest\bin\Debug\Parser.pdb
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\ParserTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\ParserTest\obj\x86\Debug\ParserTest.exe
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\ParserTest\obj\x86\Debug\ParserTest.pdb

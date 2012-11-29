@@ -1,0 +1,5 @@
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\Parser\bin\Debug\Parser.pdb
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\Parser\obj\x86\Debug\Parser.pdb
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\Parser\bin\Debug\Parser.dll
+E:\Dokumenty\Visual Studio 2010\Projects\Parser\Parser\obj\x86\Debug\Parser.dll
