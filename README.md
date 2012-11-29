@@ -26,3 +26,6 @@ Possible conjunctions
 
 and , or use short evaluation - second subtree may not be evalated
 
+In priority case you its designed, that
+  not > and > or
+
